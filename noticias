@@ -18,6 +18,7 @@ ff02::3 ip6-allhosts
 # Custom host records are listed here.
 
 0.0.0.0 globo.com
+0.0.0.0 g1.globo.com
 0.0.0.0 uol.com.br
 0.0.0.0 folha.uol.com.br
 0.0.0.0 estadao.com.br
