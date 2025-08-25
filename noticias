@@ -1,75 +1,94 @@
-globo.com
-uol.com.br
-folha.uol.com.br
-estadao.com.br
-terra.com.br
-r7.com
-cnnbrasil.com.br
-band.uol.com.br
-abril.com.br
-exame.com
-istoe.com.br
-cartacapital.com.br
-nexojornal.com.br
-poder360.com.br
-metropoles.com
-gazetadopovo.com.br
-correiobraziliense.com.br
-em.com.br
-otempo.com.br
-odia.com.br
-gzh.com.br
-nsctotal.com.br
-atarde.com.br
-bahianoticias.com.br
-oliberal.com
-jc.com.br
-tribunadonorte.com.br
-diariodepernambuco.com.br
-tribunaonline.com.br
-opopular.com.br
-correio24horas.com.br
-opovo.com.br
-folhape.com.br
-ebc.com.br
-brasil247.com
-diariodocentrodomundo.com.br
-oantagonista.com
-revistaforum.com.br
-brasildefato.com.br
-infomoney.com.br
-moneytimes.com.br
-seudinheiro.com
-canaltech.com.br
-olhardigital.com.br
-tecnoblog.net
-techtudo.com.br
-espn.com.br
-lance.com.br
-uai.com.br
-migalhas.com.br
-conjur.com.br
-jota.info
-agazeta.com.br
-acritica.com
-alagoas24horas.com.br
-pleno.news
-diariodonordeste.com.br
+# ===============================================================
 
-# Internacionais com conteúdo em português
-bbcbrasil.com
-bbc.com
-euronews.com
-sputniknews.com
-voaportugues.com
-dw.com
-rt.com
-ansa.it
-ansabrasil.com.br
-elpais.com
-bloomberglinea.com
-reuters.com
-france24.com
-prensa-latina.cu
-aljazeera.com
-globalvoices.org
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1 lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+0.0.0.0 globo.com
+0.0.0.0 uol.com.br
+0.0.0.0 folha.uol.com.br
+0.0.0.0 estadao.com.br
+0.0.0.0 terra.com.br
+0.0.0.0 r7.com
+0.0.0.0 cnnbrasil.com.br
+0.0.0.0 band.uol.com.br
+0.0.0.0 abril.com.br
+0.0.0.0 exame.com
+0.0.0.0 istoe.com.br
+0.0.0.0 cartacapital.com.br
+0.0.0.0 nexojornal.com.br
+0.0.0.0 poder360.com.br
+0.0.0.0 metropoles.com
+0.0.0.0 gazetadopovo.com.br
+0.0.0.0 correiobraziliense.com.br
+0.0.0.0 em.com.br
+0.0.0.0 otempo.com.br
+0.0.0.0 odia.com.br
+0.0.0.0 gzh.com.br
+0.0.0.0 nsctotal.com.br
+0.0.0.0 atarde.com.br
+0.0.0.0 bahianoticias.com.br
+0.0.0.0 oliberal.com
+0.0.0.0 jc.com.br
+0.0.0.0 tribunadonorte.com.br
+0.0.0.0 diariodepernambuco.com.br
+0.0.0.0 tribunaonline.com.br
+0.0.0.0 opopular.com.br
+0.0.0.0 correio24horas.com.br
+0.0.0.0 opovo.com.br
+0.0.0.0 folhape.com.br
+0.0.0.0 ebc.com.br
+0.0.0.0 brasil247.com
+0.0.0.0 diariodocentrodomundo.com.br
+0.0.0.0 oantagonista.com
+0.0.0.0 revistaforum.com.br
+0.0.0.0 brasildefato.com.br
+0.0.0.0 infomoney.com.br
+0.0.0.0 moneytimes.com.br
+0.0.0.0 seudinheiro.com
+0.0.0.0 canaltech.com.br
+0.0.0.0 olhardigital.com.br
+0.0.0.0 tecnoblog.net
+0.0.0.0 techtudo.com.br
+0.0.0.0 espn.com.br
+0.0.0.0 lance.com.br
+0.0.0.0 uai.com.br
+0.0.0.0 migalhas.com.br
+0.0.0.0 conjur.com.br
+0.0.0.0 jota.info
+0.0.0.0 agazeta.com.br
+0.0.0.0 acrtica.com
+0.0.0.0 alagoas24horas.com.br
+0.0.0.0 pleno.news
+0.0.0.0 diariodonordeste.com.br
+
+# Internacionais em português
+0.0.0.0 bbcbrasil.com
+0.0.0.0 bbc.com
+0.0.0.0 euronews.com
+0.0.0.0 sputniknews.com
+0.0.0.0 voaportugues.com
+0.0.0.0 dw.com
+0.0.0.0 rt.com
+0.0.0.0 ansa.it
+0.0.0.0 ansabrasil.com.br
+0.0.0.0 elpais.com
+0.0.0.0 bloomberglinea.com
+0.0.0.0 reuters.com
+0.0.0.0 france24.com
+0.0.0.0 prensa-latina.cu
+0.0.0.0 aljazeera.com
+0.0.0.0 globalvoices.org
